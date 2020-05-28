@@ -1,0 +1,2 @@
+K-Means algorithm can be visualized on this website
+http://tech.nitoyon.com/en/blog/2013/11/07/k-means/
